@@ -1,6 +1,7 @@
 {
     "heading": "Senior Technical Architect | Cloud, AI & ML Enthusiast | Lifelong Learner",
-    "about": "Over a decade of software development experience working in various industries including financial services, web application security and AML/CFT compliance. Skilled in Angular, React, SQL, .NetCore, Spring Framework, and Agile Methodologies amongst others. Strong engineering professional with a Bachelor of Science(B.Sc.Honours) focused in Computing and Information Systems from University of London.",
+    "about": "Over a decade of software development experience working in various industries including financial services, web application security and AML/CFT compliance. Skilled in Angular, React, SQL, .NetCore, Spring Framework, and Agile Methodologies amongst others. Strong engineering professional with a Bachelor of Science(B.Sc.Honours) focused in Computing and Information Systems from University of London. I am currently pursuing an MSc in Artificial Intelligence."
+    "credly": ["2da38b66-7e7f-4766-9772-fd2b8afeb5a5","7ece7f6e-5f32-4c1c-b4ac-05c57e950976", "ade6c8d8-cf93-4849-bd41-08fd89aa2ebf"],
     "skills": [
       {"name": "React", "url": "../assets/skills/react.svg"},
       {"name": "Redux", "url": "../assets/skills/redux.svg"},

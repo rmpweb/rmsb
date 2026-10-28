@@ -1,6 +1,6 @@
 {
-    "heading": "Senior Technical Architect | Cloud, AI & ML Enthusiast | Lifelong Learner",
-    "about": "Over a decade of software development experience working in various industries including financial services, web application security and AML/CFT compliance. Skilled in Angular, React, SQL, .NetCore, Spring Framework, and Agile Methodologies amongst others. Strong engineering professional with a Bachelor of Science(B.Sc.Honours) focused in Computing and Information Systems from University of London. I am currently pursuing an MSc in Artificial Intelligence.",
+    "heading": "Software Engineering Professional | Cloud, AI & ML Enthusiast | Lifelong Learner",
+    "about": "Over a decade of software engineering experience across various industries, including financial services, application security and AML/CFT compliance. Strong engineering professional with an MSc in Artificial Intelligence from the University of Malta and a BSc (Hons) in Computing and Information Systems from the University of London.",
     "credly": ["2da38b66-7e7f-4766-9772-fd2b8afeb5a5","7ece7f6e-5f32-4c1c-b4ac-05c57e950976", "ade6c8d8-cf93-4849-bd41-08fd89aa2ebf"],
     "skills": [
       {"name": "React", "url": "../assets/skills/react.svg"},
@@ -17,35 +17,49 @@
       {"name": "C#", "url": "../assets/skills/csharp.svg"}
     ],
     "experience": [
+        {
+        "from": "APRIL 2025",
+        "employer": "INVICTI",
+        "role": "SENIOR SOFTWARE ENGINEER",
+        "summary": "Developing and maintaining product features across multiple domains, including DAST and API security, contributiing to their design, implementation and delivery",
+        "detail": []
+      },
       {
         "from": "AUGUST 2021",
+        "to": "APRIL 2025"
         "employer": "DILIGEX",
         "role": "SENIOR TECHNICAL ARCHITECT",
         "summary": "",
         "detail": [
           {
-            "item": "Lead the design and implementation of new features, optimizing frontend and backend architectures using Angular, .NET core and SQL Server technologies"
+            "item": "Led the architectural design and implementation of the new product, across frontend and backend, using Angular, .NET Core, and SQL Server technologies."
           },
           {
-            "item": "Actively participate in product development workshops, contributing to the overall vision and direction of the product roadmap"
+            "item": "Oversaw the design and implementation of new features for the existing product on the same stack."
           },
           {
-            "item": "Mentor and guide developers, fostering technical growth and enhancing team performance"
+            "item": "Improved project structure and shared tooling across the product to support its growth."
           },
           {
-            "item": "Code reviews"
+            "item": "Actively participated in product development workshops, contributing to the overall vision and direction of the product roadmap."
           },
           {
-            "item":"Drive process improvements, streamlining delivery processes and enhancing deployment pipelines"
+            "item":"Mentored developers, fostering technical growth and enhancing team performance."
           },
           {
-            "item": "Project Management"
+            "item": "Conducted code reviews, ensuring high-quality standards and performance."
           },
           {
-            "item": "Conduct interviews and contribute to the hiring process"
+            "item": "Drove process improvements, streamlined delivery processes, and enhanced deployment pipelines, including CI/CD planning and implementation."
           },
           {
-            "item": "Engage with non-technical stakeholders, providing training and ensuring their understanding of new features and enhancements"
+            "item": "Managed projects from initiation to completion, ensuring timely and successful delivery."
+          },
+          {
+            "item": "Conducted interviews and contributed to the hiring process, bringing in top talent."
+          },
+          {
+            "item": "Engaged with non-technical stakeholders, providing training and ensuring their understanding of new features and enhancements"
           }
         ]
       },
